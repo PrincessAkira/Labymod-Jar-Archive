@@ -1,24 +1,12 @@
-# LabyMOT-Changelog
+# Labymod-Changelog
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakira_)](https://twitter.com/princessakira_)
 [![Discord](https://img.shields.io/discord/622504866132000768?logo=Discord)](https://discord.gg/8AyNesa)
 
 
-* [3.0.0](#3.0.0)
-* [3.0.1](#3.0.1)
-* [3.0.2](#3.0.2)
-* [3.0.3](#3.0.3)
-* [3.0.4](#3.0.4)
-* [3.0.5](#3.0.5)
-* [3.0.6](#3.0.6)
-* [3.0.7](#3.0.7)
-* [3.0.8](#3.0.8)
-* [3.0.9](#3.0.9)
-* [3.1](#3.1)
+# 3.0.0
 
-
-    # 3.0.0
-    Labymod Recode
+Labymod Recode
 + Added Drag & Drop GUI Editor
 + Added Public Serverlist
 + Added Minecraft 1.12.2 Support
@@ -29,7 +17,7 @@
 + Better Animations
 + New Spotify Modules
 
-    # 3.0.1
+# 3.0.1
 
 + Added Updater
 + Fixed chat default settings
